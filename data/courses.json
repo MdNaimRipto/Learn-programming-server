@@ -5,26 +5,6 @@
         "courseName": "Web Development for Beginner's",
         "aboutCourse": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
         "rating": 4.2,
-        "review": [
-            {
-                "id": "01",
-                "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Sophia D",
-                "review": "Learn Programming rigorous assignments and broad range of subjects encourage me to keep up with my courses. The quality of the teachers keeps me coming back."
-            },
-            {
-                "id": "02",
-                "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Loreelei G",
-                "review": "Gaining new knowledge and skills through Learn Programming helped me break out of the mold I'd been in for over a decade. Learn Programming helped open doors for me.."
-            },
-            {
-                "id": "03",
-                "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Zeeshan U",
-                "review": "I got hooked with everything going on in the courses, from course content and TA feedback to meetup events and the professor's Twitter feed.."
-            }
-        ],
         "skills": [
             {
                 "id": 1,
@@ -50,26 +30,6 @@
         "courseName": "React Basics for Beginner's",
         "aboutCourse": "React is a powerful JavaScript library that you can use to build user interfaces for web and mobile applications (apps). In this course, you will explore the fundamental concepts that underpin the React library and learn the basic skills required to build a simple, fast, and scalable app. You will be able to leverage the potential of this course to develop new skills, improve productivity, act effectively with data and boost your career. This is a beginner course for learners who would like to prepare themselves for a career in mobile development. To succeed in this course, you do not need prior development experience, only basic internet navigation skills and an eagerness to get started with coding.",
         "rating": 4.5,
-        "review": [
-            {
-                "id": "01",
-                "image": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Gabriela G",
-                "review": "Having a like-minded community makes me feel like I’m part of something bigger. Before Learn Programming, I thought online learning was lonely and unengaging."
-            },
-            {
-                "id": "02",
-                "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Peter S",
-                "review": "With Learn Programming, I learned the fundamental skills I needed to transition to my current career."
-            },
-            {
-                "id": "03",
-                "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Ujjwal J",
-                "review": "I got hooked with everything going on in the courses, from course content and TA feedback to meetup events and the professor's Twitter feed.."
-            }
-        ],
         "learnings": [
             {
                 "id": "01",
@@ -113,26 +73,6 @@
         "courseName": "Programming with Python",
         "aboutCourse": "In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. You’ll also get hands-on with objects, classes and methods in Python, and utilize variables, data types, control flow and loops, functions and data structures. You’ll learn how to recognize and handle errors and you’ll write unit tests for your Python code and practice test-driven development. This is a beginner course for learners who would like to prepare themselves for a career in back-end development or database engineering. To succeed in this course, you do not need prior web development experience, only basic internet navigation skills and an eagerness to get started with coding.",
         "rating": 4.3,
-        "review": [
-            {
-                "id": "01",
-                "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Sophia D",
-                "review": "Learn Programming rigorous assignments and broad range of subjects encourage me to keep up with my courses. The quality of the teachers keeps me coming back."
-            },
-            {
-                "id": "02",
-                "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Loreelei G",
-                "review": "Gaining new knowledge and skills through Learn Programming helped me break out of the mold I'd been in for over a decade. Learn Programming helped open doors for me.."
-            },
-            {
-                "id": "03",
-                "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Zeeshan U",
-                "review": "I got hooked with everything going on in the courses, from course content and TA feedback to meetup events and the professor's Twitter feed.."
-            }
-        ],
         "learnings": [
             {
                 "id": "01",
@@ -172,26 +112,6 @@
         "courseName": "Programming with C and C++",
         "aboutCourse": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games.",
         "rating": 4.3,
-        "review": [
-            {
-                "id": "01",
-                "image": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Gabriela G",
-                "review": "Having a like-minded community makes me feel like I’m part of something bigger. Before Learn Programming, I thought online learning was lonely and unengaging."
-            },
-            {
-                "id": "02",
-                "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Peter S",
-                "review": "With Learn Programming, I learned the fundamental skills I needed to transition to my current career."
-            },
-            {
-                "id": "03",
-                "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Ujjwal J",
-                "review": "I got hooked with everything going on in the courses, from course content and TA feedback to meetup events and the professor's Twitter feed.."
-            }
-        ],
         "learnings": [
             {
                 "id": "01",
@@ -243,26 +163,6 @@
         "courseName": "Fullstack Software Development",
         "aboutCourse": "This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them. This program consists of ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio. No prior programming experience or Cloud background is required. You'll skill up with the tools and technologies that successful software developers use to build, deploy, test, run, and manage Full Stack Cloud Native applications, giving you the practical skills to begin a new career in a highly in-demand area. The courses in this program will help you develop skill sets in a variety of technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more. After completing the program, you will have developed several applications using front-end and back-end technologies and deployed them on a cloud platform using Cloud Native methodologies.",
         "rating": 4.6,
-        "review": [
-            {
-                "id": "01",
-                "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Sophia D",
-                "review": "Learn Programming rigorous assignments and broad range of subjects encourage me to keep up with my courses. The quality of the teachers keeps me coming back."
-            },
-            {
-                "id": "02",
-                "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Loreelei G",
-                "review": "Gaining new knowledge and skills through Learn Programming helped me break out of the mold I'd been in for over a decade. Learn Programming helped open doors for me.."
-            },
-            {
-                "id": "03",
-                "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Zeeshan U",
-                "review": "I got hooked with everything going on in the courses, from course content and TA feedback to meetup events and the professor's Twitter feed.."
-            }
-        ],
         "learnings": [
             {
                 "id": "01",
@@ -338,26 +238,6 @@
         "courseName": "Game Development with C++",
         "aboutCourse": "This Specialization is intended for intermediate programmers who want to learn how to program Unreal Engine games using C++. Learners should complete at least one other programming Specialization one programming course in high school or college before starting this Specialization. The first course assumes that level of programming experience, and throughout the 4 courses in the Specialization you'll learn how to program in C++ and how to use that C++ knowledge to program Unreal Engine games. The C++ and Unreal material in the courses in the Specialization is slightly less comprehensive than the content in the first two game programming courses at UCCS.",
         "rating": 4.8,
-        "review": [
-            {
-                "id": "01",
-                "image": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Gabriela G",
-                "review": "Having a like-minded community makes me feel like I’m part of something bigger. Before Learn Programming, I thought online learning was lonely and unengaging."
-            },
-            {
-                "id": "02",
-                "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Peter S",
-                "review": "With Learn Programming, I learned the fundamental skills I needed to transition to my current career."
-            },
-            {
-                "id": "03",
-                "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "name": "Ujjwal J",
-                "review": "I got hooked with everything going on in the courses, from course content and TA feedback to meetup events and the professor's Twitter feed.."
-            }
-        ],
         "skills": [
             {
                 "id": 1,
