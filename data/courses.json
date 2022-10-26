@@ -2,7 +2,7 @@
     {
         "id": 1,
         "img": "https://img-c.udemycdn.com/course/480x270/30261_3a1f_11.jpg",
-        "courseName": "Web Development with HTML, CSS, And Javascript",
+        "courseName": "Web Development for Beginner's",
         "aboutCourse": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
         "skills": [
             {
@@ -155,8 +155,8 @@
     },
     {
         "id": 5,
-        "img": "https://www.jing.fm/clipimg/detail/115-1150313_vector-securities-website-security-software-development-icon-png.png",
-        "courseName": "Fullstack Software Development with Professional Certificate",
+        "img": "https://img-c.udemycdn.com/course/240x135/4374016_a9fc_2.jpg",
+        "courseName": "Fullstack Software Development",
         "aboutCourse": "This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them. This program consists of ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio. No prior programming experience or Cloud background is required. You'll skill up with the tools and technologies that successful software developers use to build, deploy, test, run, and manage Full Stack Cloud Native applications, giving you the practical skills to begin a new career in a highly in-demand area. The courses in this program will help you develop skill sets in a variety of technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more. After completing the program, you will have developed several applications using front-end and back-end technologies and deployed them on a cloud platform using Cloud Native methodologies.",
         "learnings": [
             {
@@ -229,7 +229,7 @@
     },
     {
         "id": 6,
-        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1d/ba84a0668311e582593f027531c298/Course-Logo-_Coursera__.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+        "img": "https://img-c.udemycdn.com/course/240x135/1319066_eee6_4.jpg",
         "courseName": "Game Development with C++",
         "aboutCourse": "This Specialization is intended for intermediate programmers who want to learn how to program Unreal Engine games using C++. Learners should complete at least one other programming Specialization one programming course in high school or college before starting this Specialization. The first course assumes that level of programming experience, and throughout the 4 courses in the Specialization you'll learn how to program in C++ and how to use that C++ knowledge to program Unreal Engine games. The C++ and Unreal material in the courses in the Specialization is slightly less comprehensive than the content in the first two game programming courses at UCCS.",
         "skills": [
