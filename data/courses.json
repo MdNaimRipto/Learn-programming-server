@@ -72,7 +72,7 @@
         "img": "https://img-b.udemycdn.com/course/240x135/567828_67d0.jpg",
         "courseName": "Programming with Python",
         "aboutCourse": "In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. You’ll also get hands-on with objects, classes and methods in Python, and utilize variables, data types, control flow and loops, functions and data structures. You’ll learn how to recognize and handle errors and you’ll write unit tests for your Python code and practice test-driven development. This is a beginner course for learners who would like to prepare themselves for a career in back-end development or database engineering. To succeed in this course, you do not need prior web development experience, only basic internet navigation skills and an eagerness to get started with coding.",
-        "rating": 4.0,
+        "rating": 4.3,
         "learnings": [
             {
                 "id": "01",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 4.0,
         "img": "https://img-c.udemycdn.com/course/240x135/2987082_04e6_10.jpg",
         "courseName": "Programming with C and C++",
         "aboutCourse": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games.",
