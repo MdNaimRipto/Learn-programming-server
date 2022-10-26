@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1,
+        "img": "https://w7.pngwing.com/pngs/964/1019/png-transparent-web-development-web-design-software-development-web-developer-web-design-web-design-text-logo.png",
+        "courseName": "Web Development with HTML, CSS, And Javascript",
+        "aboutCourse": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+        "skills": [
+            {
+                "id": 1,
+                "skill": "HTML5"
+            },
+            {
+                "id": 2,
+                "skill": "CSS3"
+            },
+            {
+                "id": 3,
+                "skill": "CSS Framework"
+            },
+            {
+                "id": 4,
+                "skill": "Javascript"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png",
+        "courseName": "React Basics for Beginner's",
+        "aboutCourse": "React is a powerful JavaScript library that you can use to build user interfaces for web and mobile applications (apps). In this course, you will explore the fundamental concepts that underpin the React library and learn the basic skills required to build a simple, fast, and scalable app. You will be able to leverage the potential of this course to develop new skills, improve productivity, act effectively with data and boost your career. This is a beginner course for learners who would like to prepare themselves for a career in mobile development. To succeed in this course, you do not need prior development experience, only basic internet navigation skills and an eagerness to get started with coding.",
+        "learnings": [
+            {
+                "id": "01",
+                "topic": "Use reusable components to render views where data changes over time"
+            },
+            {
+                "id": "02",
+                "topic": "Organize React projects to create more scalable and maintainable websites and apps"
+            },
+            {
+                "id": "03",
+                "topic": "Use props to pass data between components. Create dynamic and interactive web pages and apps"
+            },
+            {
+                "id": "04",
+                "topic": "Use forms to allow users to interact with the app. Build an application in React"
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "skill": "Web Application"
+            },
+            {
+                "id": 2,
+                "skill": "Front-End Web Development"
+            },
+            {
+                "id": 3,
+                "skill": "React (Web Framework)"
+            },
+            {
+                "id": 4,
+                "skill": "Application development"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg",
+        "courseName": "Programming with Python",
+        "aboutCourse": "In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. You’ll also get hands-on with objects, classes and methods in Python, and utilize variables, data types, control flow and loops, functions and data structures. You’ll learn how to recognize and handle errors and you’ll write unit tests for your Python code and practice test-driven development. This is a beginner course for learners who would like to prepare themselves for a career in back-end development or database engineering. To succeed in this course, you do not need prior web development experience, only basic internet navigation skills and an eagerness to get started with coding.",
+        "learnings": [
+            {
+                "id": "01",
+                "topic": "Foundational programming skills with basic Python Syntax."
+            },
+            {
+                "id": "02",
+                "topic": "How to use objects, classes and methods."
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "skill": "Cloud Hosting"
+            },
+            {
+                "id": 2,
+                "skill": "Application Programming Interfaces (API)"
+            },
+            {
+                "id": 3,
+                "skill": "Python Programming"
+            },
+            {
+                "id": 4,
+                "skill": "Computer Programming"
+            },
+            {
+                "id": 5,
+                "skill": "Django (Web Framework)"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png",
+        "courseName": "Programming with Python",
+        "aboutCourse": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games.",
+        "learnings": [
+            {
+                "id": "01",
+                "topic": "Write and debug code in C and C++ programming languages"
+            },
+            {
+                "id": "02",
+                "topic": "Understand algorithms, and how to properly express them"
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "skill": "Algorithms"
+            },
+            {
+                "id": 2,
+                "skill": "C Programming"
+            },
+            {
+                "id": 3,
+                "skill": "coding C++"
+            },
+            {
+                "id": 4,
+                "skill": "Computer Programming"
+            },
+            {
+                "id": 5,
+                "skill": "Graph Theory"
+            },
+            {
+                "id": 6,
+                "skill": "C++ 11"
+            },
+            {
+                "id": 7,
+                "skill": "Graph Algorithms"
+            },
+            {
+                "id": 8,
+                "skill": "Standard Template Library"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://www.jing.fm/clipimg/detail/115-1150313_vector-securities-website-security-software-development-icon-png.png",
+        "courseName": "Fullstack Software Development with Professional Certificate",
+        "aboutCourse": "This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them. This program consists of ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio. No prior programming experience or Cloud background is required. You'll skill up with the tools and technologies that successful software developers use to build, deploy, test, run, and manage Full Stack Cloud Native applications, giving you the practical skills to begin a new career in a highly in-demand area. The courses in this program will help you develop skill sets in a variety of technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more. After completing the program, you will have developed several applications using front-end and back-end technologies and deployed them on a cloud platform using Cloud Native methodologies.",
+        "learnings": [
+            {
+                "id": "01",
+                "topic": "Develop with front-end development languages and tools such as HTML, CSS, JavaScript, React and Bootstrap."
+            },
+            {
+                "id": "02",
+                "topic": "Program applications using back-end languages and frameworks like Express, Node.js, Python, Django, etc."
+            },
+            {
+                "id": "03",
+                "topic": "Deploy and scale applications using Cloud Native methodologies and tools like Containers, Kubernetes, Microservices and Serverless Functions."
+            },
+            {
+                "id": "04",
+                "topic": "Build your GitHub portfolio by applying your Full Stack Cloud Development skills with multiple labs and hands-on projects, including a capstone."
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "skill": "Cloud Native"
+            },
+            {
+                "id": 2,
+                "skill": "Devops"
+            },
+            {
+                "id": 3,
+                "skill": "Iaas PaaS Saas"
+            },
+            {
+                "id": 4,
+                "skill": "Hybrid Multicloud"
+            },
+            {
+                "id": 5,
+                "skill": "Cloud Computing"
+            },
+            {
+                "id": 6,
+                "skill": "Cascading Style Sheets (CSS)"
+            },
+            {
+                "id": 7,
+                "skill": "HTML"
+            },
+            {
+                "id": 8,
+                "skill": "Git (Software)"
+            },
+            {
+                "id": 9,
+                "skill": "JavaScript"
+            },
+            {
+                "id": 10,
+                "skill": "Cloud Applications"
+            },
+            {
+                "id": 11,
+                "skill": "Distributed Version Control (DRCS)"
+            },
+            {
+                "id": 12,
+                "skill": "Open source"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg",
+        "courseName": "Game Development with C++",
+        "aboutCourse": "This Specialization is intended for intermediate programmers who want to learn how to program Unreal Engine games using C++. Learners should complete at least one other programming Specialization one programming course in high school or college before starting this Specialization. The first course assumes that level of programming experience, and throughout the 4 courses in the Specialization you'll learn how to program in C++ and how to use that C++ knowledge to program Unreal Engine games. The C++ and Unreal material in the courses in the Specialization is slightly less comprehensive than the content in the first two game programming courses at UCCS.",
+        "skills": [
+            {
+                "id": 1,
+                "skill": "Video Game Development"
+            },
+            {
+                "id": 2,
+                "skill": "Game Programming"
+            },
+            {
+                "id": 3,
+                "skill": "Unreal Engine (User Interface)"
+            },
+            {
+                "id": 4,
+                "skill": "Computer Programming"
+            },
+            {
+                "id": 5,
+                "skill": "C++ (Programming Language)"
+            }
+        ]
+    }
+]
